@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm PITTU PRASANTH</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img src="https://media.tenor.com/OoQlWsxH2SEAAAAC/hi-anime-hello.gif" alt="coding" width="40" height="40" align="left">
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" width="400" align="right">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pittu777&label=Profile%20views&color=0e75b6&style=flat" alt="pittu777" /> </p>
 
