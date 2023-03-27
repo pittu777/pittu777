@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **JS**
 
-- 👨‍💻 All of my projects are available at [https://pittu777.github.io/portfolio/](https://pittu777.github.io/portfolio/)
+- 👨‍💻 All of my repositories are available at [https://github.com/pittu777?tab=repositories](https://github.com/pittu777?tab=repositories)
 
 - 📝 I regularly write articles on [not yet](not yet)
 
