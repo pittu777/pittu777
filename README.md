@@ -1,5 +1,5 @@
 # profile
-<a href="https://pittu777.github.io/portfolio777/">view my portfolio</a>
+<a href="https://react-portfolio-gilt-seven.vercel.app/">view my portfolio</a>
 
 <h1 align="center">Hi 👋, I'm PITTU PRASANTH</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
