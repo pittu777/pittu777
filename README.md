@@ -34,8 +34,7 @@
 <img src = "https://cdn.iconscout.com/icon/free/png-256/free-react-1-282599.png?f=webp"  width="40" height="40"/>
 <img src = "https://www.svgrepo.com/show/354113/nextjs-icon.svg" width="40" height="40"/>
 
-<p align="left"> <a href="#" target="_blank" rel="noreferrer"> <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg](https://cdn.iconscout.com/icon/free/png-256/free-react-1-282599.png?f=webp)" alt="react" width="40" height="40"/> </a>
-<p align="left"> <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="react" width="40" height="40"/> </a>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pittu777&show_icons=true&locale=en&layout=compact" alt="pittu777" /></p>
 
